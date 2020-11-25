@@ -1,2 +1,2 @@
 # Wildfire-Tracker
-React app to track wildfires using data from NASA plotted on a Google map.
+React app which tracks wildfires using data from NASA plotted on a Google map.
